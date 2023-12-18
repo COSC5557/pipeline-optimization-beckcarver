@@ -20,7 +20,8 @@ excluding appendices. It should have the following structure:
         algorithms, and other components are you considering and what
         hyperparameters and value ranges, what measures you are using to
         evaluate them, what hyperparameter optimization method you chose, etc.
-- Results: Description of what you observed, including plots.
+- Results: Description of what you observed, including plots. Compare
+  performance before and after tuning, and show the best configuration.
 - Code: Add the code you've used as a separate file.
 
 Your report must contain enough detail to reproduce what you did without the
